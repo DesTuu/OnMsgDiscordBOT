@@ -1,0 +1,80 @@
+Kanto = {'AncientPower': '1 x Red Shard, 3 x Hard Stone', 'Bounce': '1 x Red Shard, 2 x Float Stone', 'Bug Bite':	'1 x Red Shard, 1 x Silver Powder',
+'Covet':	'1 x Red Shard, 2 x Destiny Knot',
+'Drill Run':	'2 x Red Shard, 3 x Soft Sand',
+'Dual Chop':	'2 x Red Shard, 1 x Dragon Fang',
+'Fire Punch':	'2 x Red Shard, 1 x Expert Belt',
+'Gunk Shot':	'2 x Red Shard, 3 x Poison Barb',
+'Headbutt':	'1 x Red Shard, 1 x Silk Scarf',
+'Ice Punch':	'2 x Red Shard, 1 x Expert Belt',
+'Iron Head':	'2 x Red Shard, 3 x Iron Ball',
+'Low Kick':	'2 x Red Shard, 2 x Black Belt',
+'Mud-Slap':	'1 x Red Shard, 1 x Soft Sand',
+'Seed Bomb':	'2 x Red Shard, 2 x Miracle Seed',
+'Selfdestruct':	'1 x Red Shard, 2 x Smoke Ball',
+'Signal Beam':	'2 x Red Shard, 2 x Silver Powder',
+'Super Fang':	'2 x Red Shard, 2 x Silk Scarf',
+'ThunderPunch':	'2 x Red Shard, 1 x Expert Belt',
+'Twister':	'1 x Red Shard, 1 x Dragon Fang',
+'Uproar':	'1 x Red Shard, 1 x Metronome',
+'Volt Tackle':	'2 x Red Shard, 2 x Light Ball'}
+
+Kanto = ", ".join(Kanto.keys())
+
+Hoenn = {'After You':	'1 x Green Shard, 2 x Quick Claw',
+'Defense Curl':	'1 x Green Shard, 1 x Shed Shell',
+'Draco Meteor':	'3 x Green Shard, 3 x Dragon Fang',
+'Endeavor':	'2 x Green Shard, 1 x Focus Band',
+'Fire Pledge':	'1 x Green Shard, 1 x Charcoal',
+'Gastro Acid':	'1 x Green Shard, 1 x Black Sludge',
+'Grass Pledge':	'1 x Green Shard, 1 x Miracle Seed',
+'Helping Hand':	'2 x Green Shard, 2 x Destiny Knot',
+'Magic Room':	'2 x Green Shard, 1 x Twisted Spoon',
+'Night Shade':	'2 x Green Shard, 2 x Spell Tag',
+'Ominous Wind':	'1 x Green Shard, 2 x Spell Tag',
+'Outrage':	'2 x Green Shard, 1 x Dragon Fang',
+'Spite':	'1 x Green Shard, 1 x Spell Tag',
+'String Shot':	'1 x Green Shard, 1 x Silver Powder',
+'Swift':	'1 x Green Shard, 1 x Bright Powder',
+'Water Pledge':	'1 x Green Shard, 1 x Mystic Water',
+'Wonder Room':	'2 x Green Shard, 1 x Twisted Spoon',
+'Worry Seed':	'1 x Green Shard, 1 x Miracle Seed'}
+
+Hoenn = ", ".join(Hoenn.keys())
+
+Sinnoh = {'Bind':	'1 x Yellow Shard, 2 x Grip Claw',
+'Faint Attack':	'1 x Yellow Shard, 1 x Black Glasses',
+'Fake Out':	'2 x Yellow Shard, 3 x Quick Claw',
+'Heal Bell':	'2 x Yellow Shard, 1 x Soothe Bell',
+'Heat Wave':	'2 x Yellow Shard, 2 x Charcoal',
+'Knock Off':	'1 x Yellow Shard, 1 x Black Glasses',
+'Pain Split':	'2 x Yellow Shard, 2 x Sticky Barb',
+'Role Play':	'1 x Yellow Shard, 1 x Destiny Knot',
+'Sky Attack':	'2 x Yellow Shard, 2 x Sharp Beak',
+'Snore':	'1 x Yellow Shard, 1 x Metronome',
+'Synthesis':	'2 x Yellow Shard, 2 x Big Root',
+'Tailwind':	'2 x Yellow Shard, 2 x Sharp Beak',
+'Trick':	'2 x Yellow Shard, 2 x Bright Powder'}
+
+Sinnoh = ", ".join(Sinnoh.keys())
+
+Unova = {'Air Cutter':	'1 x Blue Shard, 1 x Sharp Beak',
+'Aqua Tail':	'2 x Blue Shard, 2 x Mystic Water',
+'Block':	'2 x Blue Shard, 2 x Shed Shell',
+'Earth Power':	'2 x Blue Shard, 3 x Soft Sand',
+'Electroweb': '1 x Blue Shard, 1 x Magnet',
+'Foul Play':	'2 x Blue Shard, 2 x Black Glasses',
+'Gravity':	'1 x Blue Shard, 3 x Lagging Tail',
+'Hyper Voice':	'2 x Blue Shard, 2 x Metronome',
+'Hypnosis':	'1 x Blue Shard, 1 x Metronome',
+'Icy Wind':	'1 x Blue Shard, 1 x Never Melt Ice',
+'Iron Defense':	'1 x Blue Shard, 1 x Metal Coat',
+'Last Resort':	'2 x Blue Shard, 2 x Silk Scarf',
+'Magic Coat':	'2 x Blue Shard, 1 x Light Clay',
+'Magnet Rise':	'2 x Blue Shard, 2 x Float Stone',
+'Nightmare':	'1 x Blue Shard, 1 x Spell Tag',
+'Sucker Punch':	'2 x Blue Shard, 3 x Quick Claw',
+'Superpower':	'2 x Blue Shard, 3 x Black Belt',
+'Vacuum Wave':	'2 x Blue Shard, 2 x Quick Claw',
+'Zen Headbutt':	'2 x Blue Shard, 2 x Twisted Spoon'}
+
+Unova = ", ".join(Unova.keys())
