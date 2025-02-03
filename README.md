@@ -1,5 +1,5 @@
 I really liked my first steps with discord.py bot!  
-I didnt use commands from discord.ext here.
+I didn't use commands from discord.ext here.
 
 ### My whole code is in:
 
