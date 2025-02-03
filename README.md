@@ -3,6 +3,6 @@ I didnt use commands from discord.ext here.
 
 ### My whole code is in:
 
-import discord 
-@bot.event 
-async def on_message(message):
+import discord  
+@bot.event  
+async def on_message(message):  
